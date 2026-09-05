@@ -1,0 +1,48 @@
+.pagina-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+  background: WhiteSmoke;
+}
+
+.formulario-de-login {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  width: 100%;
+  max-width: 350px;
+}
+
+.formulario-de-login h2 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.formulario-de-login input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.formulario-de-login button {
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.formulario-de-login button:hover {
+  background: #333;
+}
+
+.texto-criar-conta {
+  font-size: 14px;
+  text-align: center;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "Conscientização Ambiental",
+    "data": "10/10/2025 - Estação Central",
+    "descricao": "Um evento dedicado à preservação ambiental, com palestras, oficinas e ações de limpeza da cidade.",
+    "imagem": "/ambiente.png"
+  },
+  {
+    "id": 2,
+    "titulo": "Exposição de Arte Local",
+    "data": "12/10/2025 - Galeria Municipal",
+    "descricao": "Artistas da comunidade apresentam suas obras, celebrando a diversidade e o talento local.",
+    "imagem": "/arte.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Acampamento Comunitário",
+    "data": "15/10/2025 - Parque Natural",
+    "descricao": "Um fim de semana de integração com atividades ao ar livre e momentos de convivência entre famílias.",
+    "imagem": "/camping.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Festival das Cores",
+    "data": "18/10/2025 - Praça da Cor",
+    "descricao": "Uma celebração vibrante da alegria e da união, onde todos se reúnem para brincar com tintas coloridas e muita música.",
+    "imagem": "/cores.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Encontro de Jovens",
+    "data": "20/10/2025 - Centro Cultural",
+    "descricao": "Um espaço para jovens compartilharem ideias, experiências e construírem juntos uma comunidade mais conectada.",
+    "imagem": "/jovens.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Festival de Música",
+    "data": "25/11/2025 - Arena Principal",
+    "descricao": "Artistas locais e convidados especiais se apresentam em um festival cheio de energia e boas vibrações.",
+    "imagem": "/musica.jpg"
+  }
+]
